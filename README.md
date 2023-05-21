@@ -1,7 +1,7 @@
-# A novel registration method for long-serial section images of EM with a serial split technique based on unsupervised optical flow network![image](https://github.com/TongXin-CASIA/EFSR/assets/55783387/b6d10edf-7e43-4e81-bb59-6415429823e3)
+# A novel registration method for long-serial section images of EM with a serial split technique based on unsupervised optical flow network
 
 This repository contains the official implementation of the paper
-"[Serial section electron microscope image registration with enhanced feature learning and structural regression](https://github.com/TongXin-CASIA/EFSR/assets/55783387/b6d10edf-7e43-4e81-bb59-6415429823e3)"
+"Serial section electron microscope image registration with enhanced feature learning and structural regression"
 
 ![Python 3.9](https://img.shields.io/badge/python-3.9-green.svg?style=plastic) ![PyTorch 1.10.0](https://img.shields.io/badge/pytorch-1.10.0-green.svg?style=plastic) 
 ![license MIT](https://img.shields.io/github/license/TongXin-CASIA/EFSR?style=plastic)
