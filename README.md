@@ -34,6 +34,10 @@ python serial.py --input_dir input_dir --output_dir output
 [CSTCloud](https://pan.cstcloud.cn/s/Ys31sNa6ROg)
 
 ### Citation
-```
-coming soon
-````
+
+If you find this work useful in your research, please consider citing:
+
+**A novel registration method for long-serial section images of EM with a serial split technique based on unsupervised optical flow network** <br>
+*Tong Xin, Yanan Lv, Haoran Chen, Linlin Li, Lijun Shen, Guangcun Shan, Xi Chen, Hua Han* <br>
+*Bioinformatics, 2023.* <br>
+[[Paper]](https://doi.org/10.1093/bioinformatics/btad436)
